@@ -1,0 +1,75 @@
+
+{
+  "Kanji"      : [
+
+    {
+      "inEng": "g",
+      "inJap":  "ㄱ"
+    },
+    {
+      "inEng": "n",
+      "inJap":  "ㄴ"
+    },
+    {
+      "inEng": "r/l",
+      "inJap":  "ㄹ"
+    },
+    {
+      "inEng": "d",
+      "inJap":  "ㄷ "
+    },
+    {
+      "inEng": "m",
+      "inJap":  "ㅁ "
+    },
+    {
+      "inEng": "b",
+      "inJap":  "ㅂ"
+    },
+    {
+      "inEng": "s",
+      "inJap":  "ㅅ"
+    },
+    {
+      "inEng": "no sound/ng",
+      "inJap":  "ㅇ"
+    },
+    {
+      "inEng": "j",
+      "inJap":  "ㅈ"
+    },
+    {
+      "inEng": "k",
+      "inJap":  "ㅋ"
+    },
+    {
+      "inEng": "t",
+      "inJap":  "ㅌ"
+    },
+    {
+      "inEng": "h",
+      "inJap":  "ㅎ"
+    },
+    {
+      "inEng": "kk",
+      "inJap":  "ㄲ"
+    },
+    {
+      "inEng": "tt",
+      "inJap":  "ㄸ"
+    },
+    {
+      "inEng": "pp",
+      "inJap":  "ㅃ"
+    },
+    {
+      "inEng": "ss",
+      "inJap":  "ㅆ"
+    },
+    {
+      "inEng": "jj",
+      "inJap":  "ㅉ"
+    }
+  ]
+
+}

@@ -1,0 +1,258 @@
+
+{
+  "Cities"      : [
+    {
+      "inEng": "Andong",
+      "inEngJap":  "Andong",
+      "inJap":  "안동시"
+    },
+    {
+      "inEng": "Ansan",
+      "inEngJap":  "Ansan",
+      "inJap":  "안산시"
+    },
+    {
+      "inEng": "Anseong",
+      "inEngJap":  "Anseong",
+      "inJap":  "안성시"
+    },
+    {
+      "inEng": "Anyang",
+      "inEngJap":  "Anyang",
+      "inJap":  "안양시"
+    },
+    {
+      "inEng": "Asan",
+      "inEngJap":  "Asan",
+      "inJap":  "아산시"
+    },
+    {
+      "inEng": "Boryeong",
+      "inEngJap":  "Boryeong",
+      "inJap":  "보령시"
+    },
+    {
+      "inEng": "Bucheon",
+      "inEngJap":  "Bucheon",
+      "inJap":  "부천시"
+    },
+    {
+      "inEng": "Changwon",
+      "inEngJap":  "Changwon",
+      "inJap":  "창원시"
+    },
+    {
+      "inEng": "Cheonan",
+      "inEngJap":  "Cheonan",
+      "inJap":  "천안시"
+    },
+    {
+      "inEng": "Cheongju",
+      "inEngJap":  "Cheongju",
+      "inJap":  "청주시"
+    },
+    {
+      "inEng": "Chuncheon",
+      "inEngJap":  "Chuncheon",
+      "inJap":  "춘천시"
+    },
+    {
+      "inEng": "Daegu",
+      "inEngJap":  "Daegu",
+      "inJap":  "대구광역시"
+    },
+    {
+      "inEng": "Daejeon",
+      "inEngJap":  "Daejeon",
+      "inJap":  "대전광역시"
+    },
+    {
+      "inEng": "Dangjin",
+      "inEngJap":  "Dangjin",
+      "inJap":  "당진시"
+    },
+    {
+      "inEng": "Dongducheon",
+      "inEngJap":  "Dongducheon",
+      "inJap":  "동두천시"
+    },
+    {
+      "inEng": "Gangneung",
+      "inEngJap":  "Gangneung",
+      "inJap":  "강릉시"
+    },
+    {
+      "inEng": "Gimhae",
+      "inEngJap":  "Gimhae",
+      "inJap":  "김해시"
+    },
+    {
+      "inEng": "Goyang",
+      "inEngJap":  "Goyang",
+      "inJap":  "고양시"
+    },
+    {
+      "inEng": "Gumi",
+      "inEngJap":  "Gumi",
+      "inJap":  "구미시"
+    },
+    {
+      "inEng": "Gunpo",
+      "inEngJap":  "Gunpo",
+      "inJap":  "군포시"
+    },
+    {
+      "inEng": "Gunsan",
+      "inEngJap":  "Gunsan",
+      "inJap":  "군산시"
+    },
+    {
+      "inEng": "Sejong",
+      "inEngJap":  "Sejong",
+      "inJap":  "세종특별자치시"
+    },
+    {
+      "inEng": "Samcheok",
+      "inEngJap":  "Samcheok",
+      "inJap":  "삼척시"
+    },
+    {
+      "inEng": "Sangju",
+      "inEngJap":  "Sangju",
+      "inJap":  "상주시"
+    },
+    {
+      "inEng": "Sacheon",
+      "inEngJap":  "Sacheon",
+      "inJap":  "사천시"
+    },
+    {
+      "inEng": "Pyeongtaek",
+      "inEngJap":  "Pyeongtaek",
+      "inJap":  "평택시"
+    },
+    {
+      "inEng": "Pohang",
+      "inEngJap":  "Pohang",
+      "inJap":  "포항시"
+    },
+    {
+      "inEng": "Pocheon",
+      "inEngJap":  "Pocheon",
+      "inJap":  "포천시"
+    },
+    {
+      "inEng": "Osan",
+      "inEngJap":  "Osan",
+      "inJap":  "오산시"
+    },
+    {
+      "inEng": "Mokpo",
+      "inEngJap":  "Mokpo",
+      "inJap":  "목포시"
+    },
+    {
+      "inEng": "Miryang",
+      "inEngJap":  "Miryang",
+      "inJap":  "밀양시"
+    },
+    {
+      "inEng": "Nonsan",
+      "inEngJap":  "Nonsan",
+      "inJap":  "논산시"
+    },
+    {
+      "inEng": "Namwon",
+      "inEngJap":  "Namwon",
+      "inJap":  "남원시"
+    },
+    {
+      "inEng": "Namyangju",
+      "inEngJap":  "Namyangju",
+      "inJap":  "남양주시"
+    },
+    {
+      "inEng": "Naju",
+      "inEngJap":  "Naju",
+      "inJap":  "나주시"
+    },
+    {
+      "inEng": "Jinju",
+      "inEngJap":  "Jinju",
+      "inJap":  "진주시"
+    },
+    {
+      "inEng": "Jeju",
+      "inEngJap":  "Jeju",
+      "inJap":  "제주시"
+    },
+    {
+      "inEng": "Jeonju",
+      "inEngJap":  "Jeonju",
+      "inJap":  "전주시"
+    },
+    {
+      "inEng": "Jeongeup",
+      "inEngJap":  "Jeongeup",
+      "inJap":  "정읍시"
+    },
+    {
+      "inEng": "Jecheon",
+      "inEngJap":  "Jecheon",
+      "inJap":  "제천시"
+    },
+    {
+      "inEng": "Incheon",
+      "inEngJap":  "Incheon",
+      "inJap":  "인천광역시"
+    },
+    {
+      "inEng": "Hwaseong",
+      "inEngJap":  "Hwaseong",
+      "inJap":  "화성시"
+    },
+    {
+      "inEng": "Gyeryong",
+      "inEngJap":  "Gyeryong",
+      "inJap":  "계룡시"
+    },
+    {
+      "inEng": "Gyeongsan",
+      "inEngJap":  "Gyeongsan",
+      "inJap":  "경산시"
+    },
+    {
+      "inEng": "Gyeongju",
+      "inEngJap":  "Gyeongju",
+      "inJap":  "경주시"
+    },
+    {
+      "inEng": "Gwangyang",
+      "inEngJap":  "Gwangyang",
+      "inJap":  "광양시"
+    },
+    {
+      "inEng": "Gwangmyeong",
+      "inEngJap":  "Gwangmyeong",
+      "inJap":  "광명시"
+    },
+    {
+      "inEng": "Gwangju",
+      "inEngJap":  "Gwangju",
+      "inJap":  "광주시"
+    },
+    {
+      "inEng": "Gwacheon",
+      "inEngJap":  "Gwacheon",
+      "inJap":  "\t과천시"
+    },
+    {
+      "inEng": "Gwangju",
+      "inEngJap":  "Gwangju",
+      "inJap":  "광주광역시"
+    }
+
+  ]
+
+
+}

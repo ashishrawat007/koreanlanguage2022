@@ -1,0 +1,91 @@
+
+{
+      "higa"      : [
+
+        {
+          "inEng": "a",
+          "inJap":  "ㅏ"
+        },
+        {
+          "inEng": "ya",
+          "inJap":  "ㅑ"
+        },
+        {
+          "inEng": "eo",
+          "inJap":  "ㅓ"
+        },
+        {
+          "inEng": "yeo",
+          "inJap":  "ㅕ "
+        },
+        {
+          "inEng": "o",
+          "inJap":  "ㅗ"
+        },
+        {
+          "inEng": "yo",
+          "inJap":  "ㅛ"
+        },
+        {
+          "inEng": "u",
+          "inJap":  "ㅜ"
+        },
+        {
+          "inEng": "yu",
+          "inJap":  "ㅠ"
+        },
+        {
+          "inEng": "eu",
+          "inJap":  "ㅡ"
+        },
+        {
+          "inEng": "i",
+          "inJap":  "ㅣ"
+        },
+        {
+          "inEng": "ae",
+          "inJap":  "ㅐ "
+        },
+        {
+          "inEng": "yae",
+          "inJap":  "ㅒ"
+        },
+        {
+          "inEng": "e",
+          "inJap":  "ㅔ"
+        },
+        {
+          "inEng": "ye",
+          "inJap":  "ㅖ"
+        },
+        {
+          "inEng": "wa",
+          "inJap":  "ㅘ"
+        },
+        {
+          "inEng": "wae",
+          "inJap":  "ㅙ "
+        },
+        {
+          "inEng": "oe",
+          "inJap":  "ㅚ"
+        },
+        {
+          "inEng": "weo",
+          "inJap":  "ㅝ"
+        },
+        {
+          "inEng": "we",
+          "inJap":  "ㅞ"
+        },
+        {
+          "inEng": "wi",
+          "inJap":  "ㅟ"
+        },
+        {
+          "inEng": "ui",
+          "inJap":  "ㅢ"
+        }
+      ]
+
+}

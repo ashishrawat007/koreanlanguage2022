@@ -1,0 +1,261 @@
+
+{
+  "Directions"      : [
+    {
+      "inEng": "Where is ....?",
+      "inEngJap":  "eodie",
+      "inJap":  "어디에"
+    },
+    {
+      "inEng": "North",
+      "inEngJap":  "bugjjog",
+      "inJap":  "북쪽"
+    },
+    {
+      "inEng": "South",
+      "inEngJap":  "namjjog",
+      "inJap":  "남쪽"
+    },
+    {
+      "inEng": "East",
+      "inEngJap":  "dongjjog",
+      "inJap":  "동쪽"
+    },
+    {
+      "inEng": "West",
+      "inEngJap":  "seojjog",
+      "inJap":  "서쪽"
+    },
+    {
+      "inEng": "Cross the street",
+      "inEngJap":  "gil-eul geonneoda",
+      "inJap":  "길을 건너다"
+    },
+    {
+      "inEng": "Turn Left",
+      "inEngJap":  "oenjjog-eulo dol-a",
+      "inJap":  "왼쪽으로 돌아"
+    },
+    {
+      "inEng": "Turn Right",
+      "inEngJap":  "uhoejeon",
+      "inJap":  "우회전"
+    },
+    {
+      "inEng": "Up",
+      "inEngJap":  "wilo",
+      "inJap":  "위로"
+    },
+    {
+      "inEng": "Down",
+      "inEngJap":  "alaee ",
+      "inJap":  "아래에"
+    },
+    {
+      "inEng": "Go Straight",
+      "inEngJap":  "jigjin",
+      "inJap":  "직진"
+    },
+    {
+      "inEng": "Left",
+      "inEngJap":  "oenjjog",
+      "inJap":  "왼쪽"
+    },
+    {
+      "inEng": "Right",
+      "inEngJap":  "oleunjjog",
+      "inJap":  "오른쪽"
+    },
+    {
+      "inEng": "In Front Of",
+      "inEngJap":  "ap-eseo",
+      "inJap":  "앞에서"
+    },
+    {
+      "inEng": "Behind",
+      "inEngJap":  "dwie",
+      "inJap":  "뒤에"
+    },
+    {
+      "inEng": "Under",
+      "inEngJap":  "alaee",
+      "inJap":  "아래에"
+    },
+    {
+      "inEng": "On Top",
+      "inEngJap":  "sangdan-e",
+      "inJap":  "상단에"
+    },
+    {
+      "inEng": "Opposite",
+      "inEngJap":  "bandae",
+      "inJap":  "반대"
+    },
+    {
+      "inEng": "Near",
+      "inEngJap":  "gakkaun",
+      "inJap":  "가까운"
+    },
+    {
+      "inEng": "Far",
+      "inEngJap":  "meolli",
+      "inJap":  "멀리"
+    },
+    {
+      "inEng": "On the Corner",
+      "inEngJap":  "motung-ieseo",
+      "inJap":  "모퉁이에서"
+    },
+    {
+      "inEng": "It's Straight Ahead",
+      "inEngJap":  "balo ap-ida",
+      "inJap":  "바로 앞이다"
+    },
+    {
+      "inEng": "Here",
+      "inEngJap":  "yeogi",
+      "inJap":  "여기"
+    },
+    {
+      "inEng": "There",
+      "inEngJap":  "geogi",
+      "inJap":  "거기"
+    },
+    {
+      "inEng": "Traffic Lights",
+      "inEngJap":  "sinhodeung",
+      "inJap":  "신호등"
+    },
+    {
+      "inEng": "Intersection",
+      "inEngJap":  "gyochalo",
+      "inJap":  "교차로"
+    },
+    {
+      "inEng": "Airport",
+      "inEngJap":  "gonghang",
+      "inJap":  "공항"
+    },
+    {
+      "inEng": "Bus Stop",
+      "inEngJap":  "beoseu jeonglyujang",
+      "inJap":  "버스 정류장"
+    },
+
+    {
+      "inEng": "Tourist Information",
+      "inEngJap":  "gwangwang jeongbo",
+      "inJap":  "관광 정보"
+    },
+
+    {
+      "inEng": "Bank",
+      "inEngJap":  "eunhaeng",
+      "inJap":  "은행"
+    },
+    {
+      "inEng": "ATM",
+      "inEngJap":  "ATM",
+      "inJap":  "ATM"
+    },
+    {
+      "inEng": "Hotel",
+      "inEngJap":  "hotel",
+      "inJap":  "호텔"
+    },
+    {
+      "inEng": "Internet Cafe",
+      "inEngJap":  "inteones kape\n",
+      "inJap":  "인터넷 카페"
+    },
+    {
+      "inEng": "Market",
+      "inEngJap":  "sijang",
+      "inJap":  "시장"
+    },
+    {
+      "inEng": "Police Station",
+      "inEngJap":  "gyeongchalseo",
+      "inJap":  "경찰서"
+    },
+    {
+      "inEng": "Super Market",
+      "inEngJap":  "syupeomakes",
+      "inJap":  "슈퍼마켓"
+    },
+
+    {
+      "inEng": "School",
+      "inEngJap":  "haggyo",
+      "inJap":  "학교"
+    },
+    {
+      "inEng": "House",
+      "inEngJap":  "jib",
+      "inJap":  "집"
+    },
+    {
+      "inEng": "9 min Walk",
+      "inEngJap":  "dobo 9bun",
+      "inJap":  "도보 9분"
+    },
+    {
+      "inEng": "Go By Taxi",
+      "inEngJap":  "taegsilo idong",
+      "inJap":  "택시로 이동"
+    },
+    {
+      "inEng": "Zebra Crossing",
+      "inEngJap":  "eollugmal hoengdan",
+      "inJap":  "얼룩말 횡단"
+    },
+    {
+      "inEng": "Bridge",
+      "inEngJap":  "dali",
+      "inJap":  "다리"
+    },
+    {
+      "inEng": "Road",
+      "inEngJap":  "dolo",
+      "inJap":  "도로"
+    },
+    {
+      "inEng": "Tunnel",
+      "inEngJap":  "teoneol",
+      "inJap":  "터널"
+    },
+    {
+      "inEng": "Park",
+      "inEngJap":  "gong-won",
+      "inJap":  "공원"
+    },
+    {
+      "inEng": "Toilet/bathroom",
+      "inEngJap":  "hwajangsil/yogsil",
+      "inJap":  "화장실/욕실"
+    },
+    {
+      "inEng": "Where is the Toilet?",
+      "inEngJap":  "hwajangsil-i eodie issnayo?",
+      "inJap":  "화장실이 어디에 있나요?"
+    },
+    {
+      "inEng": "How far is it?",
+      "inEngJap":  "eolmana meoni?",
+      "inJap":  "얼마나 머니?"
+    },
+    {
+      "inEng": "How did I get there?",
+      "inEngJap":  "naega eotteohge geogie dochaghaessseubnikka?",
+      "inJap":  "내가 어떻게 거기에 도착했습니까?"
+    },
+    {
+      "inEng": "Can You Show me Where it is On Map?",
+      "inEngJap":  "jido-eseo geugeos-i eodie issneunji boyeojul su issseubnikka?",
+      "inJap":  "지도에서 그것이 어디에 있는지 보여줄 수 있습니까?"
+    }
+
+  ]
+
+
+}

@@ -1,0 +1,188 @@
+
+{
+  "General"      : [
+      {
+        "inEng": "Yes",
+        "inEngJap":  "ne",
+        "inJap":  "네"
+          },
+      {
+        "inEng": "No",
+        "inEngJap":  "ani",
+        "inJap":  "아니"
+      },
+      {
+        "inEng": "Do You understand?",
+        "inEngJap":  "ihae haessnayo?",
+        "inJap":  "이해 했나요?"
+      },
+      {
+        "inEng": "I don't Understand",
+        "inEngJap":  "ihaega an dwaeyo",
+        "inJap":  "이해가 안 돼요"
+      },
+      {
+        "inEng": "I  understand",
+        "inEngJap":  "ihae haess-eoyo",
+        "inJap":  "이해 했어요"
+      },
+      {
+        "inEng": "Thank you / Thank You Very Much",
+        "inEngJap":  "gamsa haeyo/ maeu gamsahabnida",
+        "inJap":  "감사 해요 매우 감사합니다"
+      },
+      {
+        "inEng": "Please... (offering)",
+        "inEngJap":  "jebal...",
+        "inJap":  "제발..."
+      },
+      {
+        "inEng": "Please...(asking)",
+        "inEngJap":  "jebal...",
+        "inJap":  "제발..."
+      },
+      {
+        "inEng": "I'm sorry",
+        "inEngJap":  "Gomennasai",
+        "inJap":  "죄송합니다"
+      },
+      {
+        "inEng": "Please say it again ",
+        "inEngJap":  "Mouichido ittekudasai ",
+        "inJap":  "다시 말해주세요"
+      },
+      {
+        "inEng": "Can you speak slowly?",
+        "inEngJap":  "Yukkuri hanashite kudasai",
+        "inJap":  "천천히 말할 수 있어요?"
+      },
+      {
+        "inEng": "I'm sorry (Sympathy)",
+        "inEngJap":  "okinodokuni",
+        "inJap":  "죄송합니다"
+      },
+      {
+        "inEng": "No, Thank You",
+        "inEngJap":  "Arigatou, kekkou desu / Arigatou / daijoubou desu",
+        "inJap":  "아니요 괜찮습니다"
+      },
+      {
+        "inEng": "Congratulations!",
+        "inEngJap":  "Omedetou / Omedetougozaimasu",
+        "inJap":  "축하합니다"
+      },
+      {
+        "inEng": "I'm Alright / OK",
+        "inEngJap":  "Daijyoubu desu",
+        "inJap":  "난 괜찮아 확인"
+      },
+      {
+        "inEng": "I don't know",
+        "inEngJap":  "Wakarimasen",
+        "inJap":  "모르겠어요"
+      },
+      {
+        "inEng": "I don't Like it",
+        "inEngJap":  "Sukide wa arimasen",
+        "inJap":  "나는 그것을 좋아하지 않는다"
+      },
+      {
+        "inEng": "I like it",
+        "inEngJap":  "Sukidesu",
+        "inJap":  "좋아요"
+      },
+      {
+        "inEng": "You're Welcome",
+        "inEngJap":  "Dou itashimashite",
+        "inJap":  "천만에요"
+      },
+      {
+        "inEng": "I Understand that...",
+        "inEngJap":  "Watashi wa....to rikai shimashita",
+        "inJap":  "나는 이해..."
+      },
+      {
+        "inEng": "I think that...",
+        "inEngJap":  "nae saeng-gag-eneun..",
+        "inJap":  "와타시와....오모이마스"
+      },
+      {
+        "inEng": "I would like/I want",
+        "inEngJap":  "naneun wonhanda/wonhanda",
+        "inJap":  "나는 원한다/원한다"
+      },
+      {
+        "inEng": "I like...",
+        "inEngJap":  "joh-ayo...",
+        "inJap":  "좋아요..."
+      },
+      {
+        "inEng": "May I use your phone?",
+        "inEngJap":  "jeonhwaleul sayonghaedo doelkkayo?",
+        "inJap":  "전화를 사용해도 될까요?"
+      },
+      {
+        "inEng": "Are you sure?",
+        "inEngJap":  "hwagsilhae?",
+        "inJap":  "확실해?"
+      },
+      {
+        "inEng": "Can you speak English?",
+        "inEngJap":  "yeong-eoleul hal su issseubnikka?",
+        "inJap":  "영어를 할 수 있습니까?"
+      },
+      {
+        "inEng": "What does this mean?",
+        "inEngJap":  "igeos-eun mueos-eul uimi haneunga?",
+        "inJap":  "이것은 무엇을 의미 하는가?"
+      },
+      {
+        "inEng": "How do do you pronounce this?",
+        "inEngJap":  "igeos-eul eotteohge bal-eumhabnikka",
+        "inJap":  "이것을 어떻게 발음합니까"
+      },
+      {
+        "inEng": "Could you write down for me in japanese character?",
+        "inEngJap":  "ilbon-eo munjalo naleul wihae alaelo",
+        "inJap":  "일본어 문자로 나를 위해 아래로"
+      },
+      {
+        "inEng": "No, Thanks",
+        "inEngJap":  "aniyo gwaenchanhseubnida",
+        "inJap":  "아니요 괜찮습니다"
+      },
+      {
+        "inEng": "It's wrong",
+        "inEngJap":  "teullyeoss-eo",
+        "inJap":  "틀렸어"
+      },
+      {
+        "inEng": "That's Right",
+        "inEngJap":  "joh-ayo",
+        "inJap":  "좋아요"
+      },
+      {
+        "inEng": "No problem",
+        "inEngJap":  "munje eobs-eoyo",
+        "inJap":  "문제 없어요"
+      },
+      {
+        "inEng": "Help!",
+        "inEngJap":  "Dobda",
+        "inJap":  "돕다"
+      },
+      {
+        "inEng": "Who!",
+        "inEngJap":  "nugu",
+        "inJap":  "누구"
+      },
+      {
+        "inEng": "What!",
+        "inEngJap":  "mwolago yo",
+        "inJap":  "뭐라고 요"
+
+      }
+    ]
+
+
+  }

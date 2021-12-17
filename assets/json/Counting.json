@@ -1,0 +1,222 @@
+
+{
+  "Counting"      : [
+    {
+      "inEng": "Zero",
+      "inEngJap":  "yeong",
+      "inJap":  "공"
+    },
+    {
+      "inEng": "One",
+      "inEngJap":  "hana",
+      "inJap":  "일"
+    },
+    {
+      "inEng": "Two",
+      "inEngJap":  "dul",
+      "inJap":  "이"
+    },
+    {
+      "inEng": "Three",
+      "inEngJap":  "Sam",
+      "inJap":  "삼"
+    },
+    {
+      "inEng": "Four",
+      "inEngJap":  "Four",
+      "inJap":  "사"
+    },
+    {
+      "inEng": "Five",
+      "inEngJap":  "daseos",
+      "inJap":  "다섯"
+    },
+    {
+      "inEng": "Six",
+      "inEngJap":  "yug",
+      "inJap":  "육"
+    },
+    {
+      "inEng": "Seven",
+      "inEngJap":  "sebeun",
+      "inJap":  "세븐"
+    },
+    {
+      "inEng": "Eight",
+      "inEngJap":  "yeodeolb",
+      "inJap":  "여덟"
+    },
+    {
+      "inEng": "Nine",
+      "inEngJap":  "ahob ",
+      "inJap":  "아홉"
+    },
+    {
+      "inEng": "Ten",
+      "inEngJap":  "sib",
+      "inJap":  "십"
+    },
+    {
+      "inEng": "Eleven",
+      "inEngJap":  "yeolhana",
+      "inJap":  "열하나"
+    },
+    {
+      "inEng": "Twelve",
+      "inEngJap":  "yeoldul",
+      "inJap":  "열둘"
+    },
+    {
+      "inEng": "Thirteen",
+      "inEngJap":  "yeolses",
+      "inJap":  "열셋"
+    },
+    {
+      "inEng": "Fourteen",
+      "inEngJap":  "sibsa",
+      "inJap":  "십사"
+    },
+    {
+      "inEng": "Fifteen",
+      "inEngJap":  "yeol daseos",
+      "inJap":  "열 다섯"
+    },
+    {
+      "inEng": "Sixteen",
+      "inEngJap":  "yeol-yeoseos",
+      "inJap":  "열여섯"
+    },
+    {
+      "inEng": "Seventeen",
+      "inEngJap":  "Jyu Nana",
+      "inJap":  "yeol-ilgob"
+    },
+    {
+      "inEng": "Eighteen",
+      "inEngJap":  "sibpal",
+      "inJap":  "십팔"
+    },
+    {
+      "inEng": "Nineteen",
+      "inEngJap":  "sibgu",
+      "inJap":  "십구"
+    },
+    {
+      "inEng": "Twenty",
+      "inEngJap":  "isib",
+      "inJap":  "이십"
+    },
+    {
+      "inEng": "Thirty",
+      "inEngJap":  "seoleun",
+      "inJap":  "서른"
+    },
+    {
+      "inEng": "Forty",
+      "inEngJap":  "sasib",
+      "inJap":  "사십"
+    },
+    {
+      "inEng": "Fifty",
+      "inEngJap":  "osib\n",
+      "inJap":  "오십"
+    },
+    {
+      "inEng": "Sixty",
+      "inEngJap":  "yugsib",
+      "inJap":  "육십"
+    },
+    {
+      "inEng": "Seventy",
+      "inEngJap":  "chilsib",
+      "inJap":  "칠십"
+    },
+    {
+      "inEng": "Eighty",
+      "inEngJap":  "yeodeun",
+      "inJap":  "여든"
+    },
+    {
+      "inEng": "Ninty",
+      "inEngJap":  "gusib",
+      "inJap":  "구십"
+    },
+    {
+      "inEng": "One Hundred",
+      "inEngJap":  "baeg",
+      "inJap":  "백"
+    },
+    {
+      "inEng": "One Thousand",
+      "inEngJap":  "cheon",
+      "inJap":  "천"
+    },
+    {
+      "inEng": "Ten Thousand",
+      "inEngJap":  "man",
+      "inJap":  "만"
+    },
+    {
+      "inEng": "Hundred Thousand",
+      "inEngJap":  "sibman",
+      "inJap":  "십만"
+    },
+    {
+      "inEng": "One Million",
+      "inEngJap":  "baegman",
+      "inJap":  "백만"
+    },
+    {
+      "inEng": "First",
+      "inEngJap":  "cheos beonjjae",
+      "inJap":  "첫 번째"
+    },
+    {
+      "inEng": "Second",
+      "inEngJap":  "cho",
+      "inJap":  "초"
+    },
+    {
+      "inEng": "Third",
+      "inEngJap":  "jesam",
+      "inJap":  "제삼"
+    },
+    {
+      "inEng": "Fourth",
+      "inEngJap":  "nebeonjjae",
+      "inJap":  "네번째"
+    },
+    {
+      "inEng": "Fifth",
+      "inEngJap":  "daseosjjae",
+      "inJap":  "다섯째"
+    },
+    {
+      "inEng": "Sixth",
+      "inEngJap":  "yugbun-ui hana",
+      "inJap":  "육분의 하나"
+    },
+    {
+      "inEng": "Seventh",
+      "inEngJap":  "jechil",
+      "inJap":  "제칠"
+    },
+    {
+      "inEng": "Eigth",
+      "inEngJap":  "yeodeolb beonjjae",
+      "inJap":  "여덟 번째"
+    },
+    {
+      "inEng": "Ninth",
+      "inEngJap":  "jegu",
+      "inJap":  "제구"
+    },
+    {
+      "inEng": "Tenth",
+      "inEngJap":  "jesib",
+      "inJap":  "제십"
+    }
+  ]
+
+
+}

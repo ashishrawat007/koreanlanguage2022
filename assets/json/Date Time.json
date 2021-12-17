@@ -1,0 +1,249 @@
+
+{
+  "Date Time"      : [
+    {
+      "inEng": "What time is it?",
+      "inEngJap":  "jigeum myeoch siji?",
+      "inJap":  "지금 몇 시지?"
+    },
+    {
+      "inEng": "AM ",
+      "inEngJap":  "ida",
+      "inJap":  "이다"
+    },
+    {
+      "inEng": "PM",
+      "inEngJap":  "ohu",
+      "inJap":  "오후"
+    },
+    {
+      "inEng": "Hour",
+      "inEngJap":  "si",
+      "inJap":  "시"
+    },
+    {
+      "inEng": "Minutes",
+      "inEngJap":  "bun",
+      "inJap":  "분"
+    },
+    {
+      "inEng": "Seconds",
+      "inEngJap":  "cho",
+      "inJap":  "초"
+    },
+    {
+      "inEng": "Midnight",
+      "inEngJap":  "jajeong",
+      "inJap":  "자정"
+    },
+    {
+      "inEng": "Noon",
+      "inEngJap":  "jeong-o",
+      "inJap":  "정오"
+    },
+    {
+      "inEng": "Today",
+      "inEngJap":  "oneul",
+      "inJap":  "오늘"
+    },
+    {
+      "inEng": "Yesterday",
+      "inEngJap":  "eoje",
+      "inJap":  "어제"
+    },
+    {
+      "inEng": "Tommorow",
+      "inEngJap":  "eoje",
+      "inJap":  "어제"
+    },
+    {
+      "inEng": "The Day After Tommorow",
+      "inEngJap":  "naeil mole",
+      "inJap":  "내일 모레"
+    },
+    {
+      "inEng": "Tonight",
+      "inEngJap":  "oneul bam",
+      "inJap":  "오늘 밤"
+    },
+    {
+      "inEng": "Morning",
+      "inEngJap":  "achim",
+      "inJap":  "아침"
+    },
+    {
+      "inEng": "Afternoon",
+      "inEngJap":  "ohu",
+      "inJap":  "오후"
+    },
+
+    {
+      "inEng": "Last Weekend",
+      "inEngJap":  "jinan jumal\n",
+      "inJap":  "지난 주말"
+    },
+    {
+      "inEng": "Next Weekend",
+      "inEngJap":  "da-eum ju",
+      "inJap":  "다음 주"
+    },
+    {
+      "inEng": "What Day is Today?",
+      "inEngJap":  "oneul-eun museun yoil-ibnikka?",
+      "inJap":  "오늘은 무슨 요일입니까?"
+    },
+    {
+      "inEng": "Monday",
+      "inEngJap":  "wol-yoil",
+      "inJap":  "월요일"
+    },
+    {
+      "inEng": "Tuesday",
+      "inEngJap":  "hwayoil",
+      "inJap":  "화요일"
+    },
+    {
+      "inEng": "Wednesday",
+      "inEngJap":  "suyoil\n",
+      "inJap":  "수요일"
+    },
+    {
+      "inEng": "Thursday",
+      "inEngJap":  "mog-yoil",
+      "inJap":  "목요일"
+    },
+    {
+      "inEng": "Friday",
+      "inEngJap":  "geum-yoil",
+      "inJap":  "금요일"
+    },
+    {
+      "inEng": "Saturaday",
+      "inEngJap":  "toyoil",
+      "inJap":  "토요일"
+    },
+    {
+      "inEng": "Sunday",
+      "inEngJap":  "il-yoil",
+      "inJap":  "일요일"
+    },
+    {
+      "inEng": "What Month is this?",
+      "inEngJap":  "ige museun wol-iya?",
+      "inJap":  "이게 무슨 월이야?"
+    },
+    {
+      "inEng": "january",
+      "inEngJap":  "1 wol",
+      "inJap":  "1 월"
+    },
+    {
+      "inEng": "February",
+      "inEngJap":  "2 wol",
+      "inJap":  "2 월"
+    },
+    {
+      "inEng": "march",
+      "inEngJap":  "3 wol",
+      "inJap":  "3 월"
+    },
+    {
+      "inEng": "April",
+      "inEngJap":  "4 wol",
+      "inJap":  "4 월"
+    },
+    {
+      "inEng": "May",
+      "inEngJap":  "hal su-issda",
+      "inJap":  "할 수있다"
+    },
+    {
+      "inEng": "June",
+      "inEngJap":  "6 wol",
+      "inJap":  "6 월"
+    },
+    {
+      "inEng": "July",
+      "inEngJap":  "chil-wol",
+      "inJap":  "칠월"
+    },
+    {
+      "inEng": "August",
+      "inEngJap":  "pal-wol",
+      "inJap":  "팔월"
+    },
+    {
+      "inEng": "September",
+      "inEngJap":  "guwol",
+      "inJap":  "구월"
+    },
+    {
+      "inEng": "Octuber",
+      "inEngJap":  "sib-wol",
+      "inJap":  "십월"
+    },
+    {
+      "inEng": "November",
+      "inEngJap":  "sib-il-wol",
+      "inJap":  "십일월"
+    },
+    {
+      "inEng": "December",
+      "inEngJap":  "12 wol",
+      "inJap":  "12 월"
+    },
+    {
+      "inEng": "This Month",
+      "inEngJap":  "ibeon dal",
+      "inJap":  "이번 달"
+    },
+    {
+      "inEng": "Next Month",
+      "inEngJap":  "da-eum dal",
+      "inJap":  "다음 달"
+    },
+    {
+      "inEng": "Last Month",
+      "inEngJap":  "jinan dal",
+      "inJap":  "지난 달"
+    },
+    {
+      "inEng": "This Year",
+      "inEngJap":  "olhae",
+      "inJap":  "올해"
+    },
+    {
+      "inEng": "Next Year",
+      "inEngJap":  "naenyeon",
+      "inJap":  "내년"
+    },
+    {
+      "inEng": "Last Year",
+      "inEngJap":  "jagnyeon",
+      "inJap":  "작년"
+    },
+
+    {
+      "inEng": "Spring",
+      "inEngJap":  "bom",
+      "inJap":  "봄"
+    },
+    {
+      "inEng": "Summer",
+      "inEngJap":  "yeoleum",
+      "inJap":  "여름"
+    },
+    {
+      "inEng": "Autumn",
+      "inEngJap":  "ga-eul",
+      "inJap":  "가을"
+    },
+    {
+      "inEng": "Winter",
+      "inEngJap":  "gyeoul",
+      "inJap":  "겨울"
+    }
+  ]
+
+
+}

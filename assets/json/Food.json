@@ -1,0 +1,286 @@
+
+{
+  "Food"      : [
+    {
+      "inEng": "Breakfast",
+      "inEngJap":  "achim",
+      "inJap":  "아침"
+    },
+    {
+      "inEng": "Lunch",
+      "inEngJap":  "jeomsim",
+      "inJap":  "점심"
+    },
+    {
+      "inEng": "Dinner",
+      "inEngJap":  "jeonyeog",
+      "inJap":  "저녁"
+    },
+    {
+      "inEng": "Snack",
+      "inEngJap":  "gansig",
+      "inJap":  "간식"
+    },
+    {
+      "inEng": "Meat",
+      "inEngJap":  "gogi",
+      "inJap":  "고기"
+    },
+    {
+      "inEng": "Beef",
+      "inEngJap":  "sogogi",
+      "inJap":  "소고기"
+    },
+    {
+      "inEng": "Chicken",
+      "inEngJap":  "dalg",
+      "inJap":  "닭"
+    },
+    {
+      "inEng": "Eggs",
+      "inEngJap":  "dalgyal",
+      "inJap":  "달걀"
+    },
+    {
+      "inEng": "Duck",
+      "inEngJap":  "oli",
+      "inJap":  "오리"
+    },
+    {
+      "inEng": "Pork",
+      "inEngJap":  "dwaeji gogi",
+      "inJap":  "돼지 고기"
+    },
+    {
+      "inEng": "Lamb",
+      "inEngJap":  "yang-gogi",
+      "inJap":  "양고기"
+    },
+    {
+      "inEng": "Seafood",
+      "inEngJap":  "haemul\n",
+      "inJap":  "해물"
+    },
+    {
+      "inEng": "Fish",
+      "inEngJap":  "mulgogi",
+      "inJap":  "물고기"
+    },
+    {
+      "inEng": "Prawn/Shrimp",
+      "inEngJap":  "saeu/saeu",
+      "inJap":  "새우/새우"
+    },
+    {
+      "inEng": "ShellFish",
+      "inEngJap":  "jogae",
+      "inJap":  "조개"
+    },
+    {
+      "inEng": "Rice",
+      "inEngJap":  "ssal",
+      "inJap":  "쌀"
+    },
+    {
+      "inEng": "ChopsSticks",
+      "inEngJap":  "jeosgalag",
+      "inJap":  "젓가락"
+    },
+    {
+      "inEng": "Fork",
+      "inEngJap":  "pokeu",
+      "inJap":  "포크"
+    },
+    {
+      "inEng": "Knife",
+      "inEngJap":  "kal",
+      "inJap":  "칼"
+    },
+    {
+      "inEng": "Spoon",
+      "inEngJap":  "sudgalag",
+      "inJap":  "숟가락"
+    },
+    {
+      "inEng": "Wine Glass",
+      "inEngJap":  "wain jan",
+      "inJap":  "와인 잔"
+    },
+    {
+      "inEng": "Tea Cup",
+      "inEngJap":  "chasjan",
+      "inJap":  "찻잔"
+    },
+    {
+      "inEng": "Teapot",
+      "inEngJap":  "chasjujeonja",
+      "inJap":  "찻주전자"
+    },
+    {
+      "inEng": "Rice Bowl",
+      "inEngJap":  "bab geuleus",
+      "inJap":  "밥 그릇"
+    },
+    {
+      "inEng": "Soup Bowl",
+      "inEngJap":  "supeu geuleus",
+      "inJap":  "수프 그릇"
+    },
+
+    {
+      "inEng": "I'm Full",
+      "inEngJap":  "naneun jeonche haeyo",
+      "inJap":  "나는 전체 해요"
+    },
+    {
+      "inEng": "Very Delicious",
+      "inEngJap":  "aju mas-issneun",
+      "inJap":  "아주 맛있는"
+    },
+    {
+      "inEng": "I Love This Dish",
+      "inEngJap":  "naneun i yolileul salanghanda",
+      "inJap":  "나는 이 요리를 사랑한다"
+    },
+
+    {
+      "inEng": "Gluten",
+      "inEngJap":  "geulluten",
+      "inJap":  "글루텐"
+    },
+    {
+      "inEng": "Honey",
+      "inEngJap":  "kkul",
+      "inJap":  "꿀"
+    },
+    {
+      "inEng": "Keep the change",
+      "inEngJap":  "jandon",
+      "inJap":  "잔돈"
+    },
+    {
+      "inEng": "Is service charge included?",
+      "inEngJap":  "bongsalyoga pohamdoeeo issseubnikka?",
+      "inJap":  "봉사료가 포함되어 있습니까？"
+    },
+    {
+      "inEng": "There is a mistake in the bill",
+      "inEngJap":  "gyesanseoe chag-oga issda",
+      "inJap":  "계산서에 착오가 있다"
+    },
+    {
+      "inEng": "Where is the toilet",
+      "inEngJap":  "Thwajangsil-i eodie issnayo",
+      "inJap":  "화장실이 어디에 있나요"
+    },
+    {
+      "inEng": "I had too many drinks",
+      "inEngJap":  "sul-eul neomu manh-i masyeoss-eoyo",
+      "inJap":  "술을 너무 많이 마셨어요"
+    },
+    {
+      "inEng": "I feel Drunk",
+      "inEngJap":  "chwihan gibun",
+      "inJap":  "취한 기분"
+    },
+    {
+      "inEng": "Bottoms Up",
+      "inEngJap":  "wonsyas-iya",
+      "inJap":  "원샷이야"
+    },
+    {
+      "inEng": "Cheers",
+      "inEngJap":  "geonbae",
+      "inJap":  "건배"
+    },
+    {
+      "inEng": "Ice",
+      "inEngJap":  "bing",
+      "inJap":  "빙"
+    },
+
+    {
+      "inEng": "Juice",
+      "inEngJap":  "juseu",
+      "inJap":  "주스"
+    },
+    {
+      "inEng": "Milk",
+      "inEngJap":  "uyu",
+      "inJap":  "우유"
+    },
+    {
+      "inEng": "Cocktail",
+      "inEngJap":  "kagteil",
+      "inJap":  "칵테일"
+    },
+    {
+      "inEng": "Shochu",
+      "inEngJap":  "jechu",
+      "inJap":  "제추"
+    },
+    {
+      "inEng": "Warm sake",
+      "inEngJap":  "ttatteushan sul",
+      "inJap":  "따뜻한 술"
+    },
+
+    {
+      "inEng": "Wine",
+      "inEngJap":  "Wain",
+      "inJap":  "와인"
+    },
+
+    {
+      "inEng": "Champagne",
+      "inEngJap":  "syampein",
+      "inJap":  "샴페인"
+    },
+
+    {
+      "inEng": "Alcohol Drinks",
+      "inEngJap":  "alkool eumlyo",
+      "inJap":  "알코올 음료"
+    },
+    {
+      "inEng": "Water",
+      "inEngJap":  "aniyo",
+      "inJap":  "아니요"
+    },
+
+    {
+      "inEng": "Tea",
+      "inEngJap":  "cha",
+      "inJap":  "차"
+    },
+    {
+      "inEng": "Chrysanthemum Tea",
+      "inEngJap":  "gughwacha",
+      "inJap":  "국화차"
+    },
+
+    {
+      "inEng": "Jasmine Tea",
+      "inEngJap":  "jaseumin cha",
+      "inJap":  "자스민 차"
+    },
+    {
+      "inEng": "Coffee",
+      "inEngJap":  "keopi",
+      "inJap":  "커피"
+    },
+    {
+      "inEng": "Beer",
+      "inEngJap":  "maegju",
+      "inJap":  "맥주"
+    },
+    {
+      "inEng": "More Water Please",
+      "inEngJap":  "mul-eul deo juseyo",
+      "inJap":  "물을 더 주세요"
+    }
+
+  ]
+
+
+}

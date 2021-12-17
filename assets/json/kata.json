@@ -1,0 +1,765 @@
+
+{
+  "kata"      : [
+
+    {
+      "inEng": "ga",
+      "inJap":  "가"
+    },
+    {
+      "inEng": "gya",
+      "inJap":  "갸"
+    },
+    {
+      "inEng": "geo",
+      "inJap":  "거"
+    },
+    {
+      "inEng": "gyeo",
+      "inJap":  "겨"
+    },
+    {
+      "inEng": "go",
+      "inJap":  "고"
+    },
+    {
+      "inEng": "gyo",
+      "inJap":  "교"
+    },
+    {
+      "inEng": "gu",
+      "inJap":  "구"
+    },
+    {
+      "inEng": "gyu",
+      "inJap":  "규"
+    },
+    {
+      "inEng": "geu",
+      "inJap":  "그"
+    },
+    {
+      "inEng": "gi",
+      "inJap":  "기"
+    },
+    {
+      "inEng": "na",
+      "inJap":  "나"
+    },
+    {
+      "inEng": "neo",
+      "inJap":  "너"
+    },
+    {
+      "inEng": "nyeo",
+      "inJap":  "녀"
+    },
+    {
+      "inEng": "no",
+      "inJap":  "노"
+    },
+    {
+      "inEng": "nyo",
+      "inJap":  "뇨"
+    },
+    {
+      "inEng": "nu",
+      "inJap":  "누"
+    },
+    {
+      "inEng": "nyu",
+      "inJap":  "뉴"
+    },
+    {
+      "inEng": "neu",
+      "inJap":  "느"
+    },
+    {
+      "inEng": "ni",
+      "inJap":  "니"
+    },
+    {
+      "inEng": "da",
+      "inJap":  "다"
+    },
+    {
+      "inEng": "dya",
+      "inJap":  "댜"
+    },
+    {
+      "inEng": "deo",
+      "inJap":  "더"
+    },
+    {
+      "inEng": "dyeo",
+      "inJap":  "뎌"
+    },
+    {
+      "inEng": "do",
+      "inJap":  "도"
+    },
+    {
+      "inEng": "dyo",
+      "inJap":  "됴"
+    },
+    {
+      "inEng": "du",
+      "inJap":  "두"
+    },
+    {
+      "inEng": "dyu",
+      "inJap":  "듀"
+    },
+    {
+      "inEng": "deu",
+      "inJap":  "드 "
+    },
+    {
+      "inEng": "di",
+      "inJap":  "디"
+    },
+    {
+      "inEng": "rora",
+      "inJap":  "라"
+    },
+    {
+      "inEng": "warya",
+      "inJap":  "랴"
+    },
+    {
+      "inEng": "woreo",
+      "inJap":  "러"
+    },
+    {
+      "inEng": "ryeo",
+      "inJap":  "려"
+    },
+    {
+      "inEng": "ro",
+      "inJap":  "로"
+    },
+    {
+      "inEng": "ryo",
+      "inJap":  "료"
+    },
+    {
+      "inEng": "ru",
+      "inJap":  "루"
+    },
+    {
+      "inEng": "ryu",
+      "inJap":  "류"
+    },
+    {
+      "inEng": "reu",
+      "inJap":  "르"
+    },
+    {
+      "inEng": "ri",
+      "inJap":  "리"
+    },
+    {
+      "inEng": "ma",
+      "inJap":  "마"
+    },
+    {
+      "inEng": "mya",
+      "inJap":  "먀"
+    },
+    {
+      "inEng": "meo",
+      "inJap":  "머"
+    },
+    {
+      "inEng": "myeo",
+      "inJap":  "며"
+    },
+    {
+      "inEng": "mo",
+      "inJap":  "모"
+    },
+    {
+      "inEng": "myo",
+      "inJap":  "묘"
+    },
+    {
+      "inEng": "mu",
+      "inJap":  "무"
+    },
+    {
+      "inEng": "myu",
+      "inJap":  "뮤"
+    },
+    {
+      "inEng": "meu",
+      "inJap":  "므"
+    },
+    {
+      "inEng": "mi",
+      "inJap":  "미"
+    },
+    {
+      "inEng": "ba",
+      "inJap":  "바"
+    },
+    {
+      "inEng": "bya",
+      "inJap":  "뱌"
+    },
+    {
+      "inEng": "beo",
+      "inJap":  "버"
+    },
+    {
+      "inEng": "byeo",
+      "inJap":  "벼"
+    },
+    {
+      "inEng": "bo",
+      "inJap":  "보"
+    },
+    {
+      "inEng": "byo",
+      "inJap":  "뵤"
+    },
+    {
+      "inEng": "bu",
+      "inJap":  "부"
+    },
+    {
+      "inEng": "byu",
+      "inJap":  "뷰"
+    },
+    {
+      "inEng": "beu",
+      "inJap":  "t브"
+    },
+    {
+      "inEng": "bi",
+      "inJap":  "비"
+    },
+    {
+      "inEng": "sa",
+      "inJap":  "사"
+    },
+    {
+      "inEng": "sya",
+      "inJap":  "샤"
+    },
+    {
+      "inEng": "seo",
+      "inJap":  "서"
+    },
+    {
+      "inEng": "syeo",
+      "inJap":  "셔"
+    },
+    {
+      "inEng": "so",
+      "inJap":  "소"
+    },
+    {
+      "inEng": "syo",
+      "inJap":  "쇼"
+    },
+    {
+      "inEng": "su",
+      "inJap":  "수"
+    },
+    {
+      "inEng": "syu",
+      "inJap":  "슈"
+    },
+    {
+      "inEng": "seu",
+      "inJap":  "스"
+    },
+    {
+      "inEng": "si",
+      "inJap":  "시"
+    },
+    {
+      "inEng": "a",
+      "inJap":  "아"
+    },
+    {
+      "inEng": "ya",
+      "inJap":  "야"
+    },
+    {
+      "inEng": "eo",
+      "inJap":  "어"
+    },
+    {
+      "inEng": "yeo",
+      "inJap":  "여"
+    },
+    {
+      "inEng": "o",
+      "inJap":  "오"
+    },
+    {
+      "inEng": "yo",
+      "inJap":  "요"
+    },
+    {
+      "inEng": "u",
+      "inJap":  "우"
+    },
+    {
+      "inEng": "yu",
+      "inJap":  "유"
+    },
+    {
+      "inEng": "eu",
+      "inJap":  "으"
+    },
+    {
+      "inEng": "i",
+      "inJap":  "이"
+    },
+    {
+      "inEng": "ja",
+      "inJap":  "자"
+    },
+    {
+      "inEng": "jya",
+      "inJap":  "쟈"
+    },
+    {
+      "inEng": "jeo",
+      "inJap":  "저"
+    },
+    {
+      "inEng": "jyeo",
+      "inJap":  "져"
+    },
+    {
+      "inEng": "jo",
+      "inJap":  "조"
+    },
+    {
+      "inEng": "jyo",
+      "inJap":  "죠"
+    },
+    {
+      "inEng": "ju",
+      "inJap":  "주"
+    },
+    {
+      "inEng": "jyu",
+      "inJap":  "쥬"
+    },
+    {
+      "inEng": "jeu",
+      "inJap":  "즈"
+    },
+    {
+      "inEng": "ji",
+      "inJap":  "지"
+    },
+    {
+      "inEng": "cha",
+      "inJap":  "차"
+    } ,
+    {
+      "inEng": "chya",
+      "inJap":  "챠"
+    },
+    {
+      "inEng": "cheo",
+      "inJap":  "처"
+    },
+    {
+      "inEng": "chyeo",
+      "inJap":  "쳐"
+    },
+    {
+      "inEng": "cho",
+      "inJap":  "초"
+    },
+    {
+      "inEng": "chyo",
+      "inJap":  "쵸"
+    },
+    {
+      "inEng": "chu",
+      "inJap":  "추"
+    },
+    {
+      "inEng": "chyu",
+      "inJap":  "츄"
+    },
+    {
+      "inEng": "chu",
+      "inJap":  "추"
+    },
+    {
+      "inEng": "cheu",
+      "inJap":  "츠"
+    },
+    {
+      "inEng": "ka",
+      "inJap":  "카"
+    },
+    {
+      "inEng": "kya",
+      "inJap":  "캬"
+    },
+    {
+      "inEng": "keo",
+      "inJap":  "커"
+    },
+    {
+      "inEng": "kyeo",
+      "inJap":  "켜"
+    },
+    {
+      "inEng": "ko",
+      "inJap":  "코"
+    },
+    {
+      "inEng": "ku",
+      "inJap":  "쿠"
+    },
+    {
+      "inEng": "kyo",
+      "inJap":  "쿄"
+    },
+    {
+      "inEng": "kyu",
+      "inJap":  "큐"
+    },
+    {
+      "inEng": "keu",
+      "inJap":  "크"
+    },
+    {
+      "inEng": "ki",
+      "inJap":  "키"
+    },
+    {
+      "inEng": "ta",
+      "inJap":  "타"
+    },
+    {
+      "inEng": "tya",
+      "inJap":  "탸"
+    },
+    {
+      "inEng": "teo",
+      "inJap":  "터"
+    },
+    {
+      "inEng": "tyeo",
+      "inJap":  "텨"
+    },
+    {
+      "inEng": "to",
+      "inJap":  "토"
+    },
+    {
+      "inEng": "tyo",
+      "inJap":  "툐"
+    },
+    {
+      "inEng": "tu",
+      "inJap":  "투"
+    },
+    {
+      "inEng": "tyu",
+      "inJap":  "튜"
+    },
+    {
+      "inEng": "teu",
+      "inJap":  "트"
+    },
+    {
+      "inEng": "ti",
+      "inJap":  "티"
+    },
+    {
+      "inEng": "pa",
+      "inJap":  "파"
+    },
+    {
+      "inEng": "pya",
+      "inJap":  "퍄"
+    },
+    {
+      "inEng": "peo",
+      "inJap":  "퍼"
+    },
+    {
+      "inEng": "pyeo",
+      "inJap":  "펴"
+    },
+    {
+      "inEng": "po",
+      "inJap":  "포"
+    },
+    {
+      "inEng": "pyo",
+      "inJap":  "표"
+    },
+    {
+      "inEng": "pu",
+      "inJap":  "푸"
+    },
+    {
+      "inEng": "pyu",
+      "inJap":  "퓨"
+    },
+    {
+      "inEng": "peu",
+      "inJap":  "프"
+    },
+    {
+      "inEng": "pi",
+      "inJap":  "피"
+    },
+    {
+      "inEng": "ha",
+      "inJap":  "하"
+    },
+    {
+      "inEng": "hya",
+      "inJap":  "햐"
+    },
+    {
+      "inEng": "heo",
+      "inJap":  "허"
+    },
+    {
+      "inEng": "hyeo",
+      "inJap":  "혀"
+    },
+    {
+      "inEng": "ho",
+      "inJap":  "호"
+    },
+    {
+      "inEng": "hyo",
+      "inJap":  "효"
+    },
+    {
+      "inEng": "hu",
+      "inJap":  "후"
+    },
+    {
+      "inEng": "hyu",
+      "inJap":  "휴"
+    },
+    {
+      "inEng": "heu",
+      "inJap":  "흐"
+    },
+    {
+      "inEng": "hi",
+      "inJap":  "히"
+    },
+    {
+      "inEng": "kka",
+      "inJap":  "까"
+    },
+    {
+      "inEng": "kkya",
+      "inJap":  "꺄"
+    },
+    {
+      "inEng": "kkeo",
+      "inJap":  "꺼"
+    },
+    {
+      "inEng": "kkyeo",
+      "inJap":  "껴"
+    },
+    {
+      "inEng": "kko",
+      "inJap":  "꼬"
+    },
+    {
+      "inEng": "kkyo",
+      "inJap":  "꾜"
+    },
+    {
+      "inEng": "kku",
+      "inJap":  "꾸"
+    },
+    {
+      "inEng": "kkyu",
+      "inJap":  "뀨"
+    },
+    {
+      "inEng": "kkeu",
+      "inJap":  "끄"
+    },
+    {
+      "inEng": "kki",
+      "inJap":  "끼"
+    },
+    {
+      "inEng": "tta",
+      "inJap":  "따"
+    },
+    {
+      "inEng": "ttya",
+      "inJap":  "땨"
+    },
+    {
+      "inEng": "tteo",
+      "inJap":  "떠"
+    },
+    {
+      "inEng": "ttyeo",
+      "inJap":  "뗘"
+    },
+    {
+      "inEng": "tto",
+      "inJap":  "또"
+    },
+    {
+      "inEng": "ttyo",
+      "inJap":  "뚀"
+    },
+    {
+      "inEng": "ttu",
+      "inJap":  "뚜"
+    },
+    {
+      "inEng": "ttyu",
+      "inJap":  "뜌"
+    },
+    {
+      "inEng": "tteu",
+      "inJap":  "뜨"
+    },
+    {
+      "inEng": "tti",
+      "inJap":  "띠"
+    },
+    {
+      "inEng": "ppa",
+      "inJap":  "빠"
+    },
+    {
+      "inEng": "ppya",
+      "inJap":  "뺘"
+    },
+    {
+      "inEng": "ppeo",
+      "inJap":  "뻐"
+    },
+    {
+      "inEng": "ppyeo",
+      "inJap":  "뼈"
+    },
+    {
+      "inEng": "ppo",
+      "inJap":  "뽀"
+    },
+    {
+      "inEng": "ppyo",
+      "inJap":  "뾰"
+    },
+    {
+      "inEng": "ppu",
+      "inJap":  "뿌"
+    },
+    {
+      "inEng": "ppyu",
+      "inJap":  "쀼"
+    },
+    {
+      "inEng": "ppeu",
+      "inJap":  "쁘"
+    },
+    {
+      "inEng": "ppi",
+      "inJap":  "삐"
+    },
+    {
+      "inEng": "ssa",
+      "inJap":  "싸"
+    },
+    {
+      "inEng": "jja",
+      "inJap":  "짜"
+    },
+    {
+      "inEng": "jjya",
+      "inJap":  "쨔"
+    },
+    {
+      "inEng": "jjeo",
+      "inJap":  "쩌"
+    },
+    {
+      "inEng": "jjyeo",
+      "inJap":  "쪄"
+    },
+    {
+      "inEng": "jjo",
+      "inJap":  "쪼"
+    },
+    {
+      "inEng": "jjyo",
+      "inJap":  "쬬"
+    },
+    {
+      "inEng": "jju",
+      "inJap":  "쭈"
+    },
+    {
+      "inEng": "jjyu",
+      "inJap":  "쮸"
+    },
+    {
+      "inEng": "jjeu",
+      "inJap":  "쯔"
+    },
+    {
+      "inEng": "jji",
+      "inJap":  "찌"
+    },
+    {
+      "inEng": "ssya",
+      "inJap":  "쌰"
+    },
+    {
+      "inEng": "sseo",
+      "inJap":  "써"
+    },
+    {
+      "inEng": "ssyeo",
+      "inJap":  "쎠"
+    },
+    {
+      "inEng": "sso",
+      "inJap":  "쏘"
+    },
+    {
+      "inEng": "ssyo",
+      "inJap":  "쑈"
+    },
+    {
+      "inEng": "ssu",
+      "inJap":  "쑤"
+    },
+    {
+      "inEng": "ssyu",
+      "inJap":  "쓔"
+    },
+    {
+      "inEng": "sseu",
+      "inJap":  "쓰"
+    },
+    {
+      "inEng": "ssi",
+      "inJap":  "씨"
+    }
+
+
+  ]
+
+}

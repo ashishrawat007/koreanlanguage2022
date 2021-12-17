@@ -1,0 +1,142 @@
+
+{
+  "Mountain"      : [
+    {
+      "inEng": "Mount Cheongok",
+      "inEngJap":  "cheongogsan",
+      "inJap":  "천곡산"
+    },
+    {
+      "inEng": "Mount Hwangbyeong",
+      "inEngJap":  "hwangbyeongsan",
+      "inJap":  "황병산"
+    },
+    {
+      "inEng": "Jangsan",
+      "inEngJap":  "jangsan",
+      "inJap":  "장산"
+    },
+
+    {
+      "inEng": "Mount Sangwon",
+      "inEngJap":  "sang-wonsan\n",
+      "inJap":  "상원산"
+    },
+    {
+      "inEng": "Dosol Peak",
+      "inEngJap":  "dosol pikeu",
+      "inJap": "도솔 피크"
+    },
+    {
+      "inEng": "Mount Jeombong",
+      "inEngJap":  "jeombongsan",
+      "inJap":  "점봉산"
+    },
+    {
+      "inEng": "Mount Baegun",
+      "inEngJap":  "baeg-unsan",
+      "inJap":  "백운산"
+    },
+    {
+      "inEng": "Manbokdae",
+      "inEngJap":  "manbogdae",
+      "inJap":  "만복대"
+    },
+    {
+      "inEng": "Mount Gaya",
+      "inEngJap":  "gayasan",
+      "inJap":  "가야산"
+    },
+    {
+      "inEng": "Mount Sobaek",
+      "inEngJap":  "sobaegsan",
+      "inJap":  "소백산"
+    },
+    {
+      "inEng": "Mount Bangtae",
+      "inEngJap":  "bangtaesan",
+      "inJap":  "방태산"
+    },
+    {
+      "inEng": "Mount Barwang",
+      "inEngJap":  "baleuwangsan",
+      "inJap": "바르왕산"
+    },
+    {
+      "inEng": "Mount Hwaak",
+      "inEngJap":  "hwaagsan",
+      "inJap":  "화악산"
+    },
+    {
+      "inEng": "Duwi Peak",
+      "inEngJap":  "duwibong",
+      "inJap":  "두위봉"
+    },
+    {
+      "inEng": "Mount Namdeogyu",
+      "inEngJap":  "namdeoggyusan",
+      "inJap":  "남덕규산"
+    },
+
+    {
+      "inEng": "Gari Peak",
+      "inEngJap":  "galibong",
+      "inJap":  "가리봉"
+    },
+    {
+      "inEng": "Mount Gariwang",
+      "inEngJap":  "galiwangsan",
+      "inJap":  "가리왕산"
+    },
+    {
+      "inEng": "Mount Odae",
+      "inEngJap":  "odaesan",
+      "inJap":  "오대산"
+    },
+    {
+      "inEng": "Mount Taebaek",
+      "inEngJap":  "taebaegsan",
+      "inJap":  "태백산"
+    },
+    {
+      "inEng": "Mount Hambaek",
+      "inEngJap":  "hambaegsan",
+      "inJap":  "함백산"
+    },
+    {
+      "inEng": "Mount Gyebang",
+      "inEngJap":  "gyebangsan",
+      "inJap":  "계방산"
+    },
+    {
+      "inEng": "Mount Deogyu",
+      "inEngJap":  "deog-yusan",
+      "inJap":  "덕유산"
+    },
+    {
+      "inEng": "Mount Seorak",
+      "inEngJap":  "seol-agsan",
+      "inJap":  "설악산"
+    },
+    {
+      "inEng": "Banya Peak",
+      "inEngJap":  "Washibadake",
+      "inJap":  "반야 피크"
+    },
+    {
+      "inEng": "Mount Jiri",
+      "inEngJap":  "jilisan",
+      "inJap":  "지리산"
+    },
+    {
+      "inEng": "Mount Halla",
+      "inEngJap":  "hanlasan",
+      "inJap":  "한라산"
+    }
+
+
+
+  ]
+
+
+}

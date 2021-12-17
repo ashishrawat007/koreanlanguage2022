@@ -1,0 +1,174 @@
+
+{
+      "Greetings"      : [
+
+                        {
+                        "inEng": "Hello",
+                        "inEngJap":  "annyeonghaseyo",
+                        "inJap":  "안녕하세요"
+
+                        },
+                        {
+                          "inEng": "Good Morning",
+                          "inEngJap":  "joh-eun achim-ieyo",
+                          "inJap":  "좋은 아침이에요"
+                        },
+                        {
+                          "inEng": "Good Afternoon",
+                          "inEngJap":  "joh-eun ohueyo",
+                          "inJap":  "좋은 오후에요"
+                        },
+                        {
+                          "inEng": "Good Evening",
+                          "inEngJap":  "joh-eun jeonyeog-ieyo",
+                          "inJap":  "좋은 저녁이에요"
+                        },
+                        {
+                          "inEng": "Good Night",
+                          "inEngJap":  "annyeonghi jumuseyo",
+                          "inJap":  "안녕히 주무세요"
+                        },
+                        {
+                          "inEng": "How Are You?",
+                          "inEngJap":  "jal jinaego issnayo?",
+                          "inJap":  "어떻게 지내세요"
+                        },
+                        {
+                          "inEng": "I'm fine thanks",
+                          "inEngJap":  "nan gwaenchanh-a gomawo",
+                          "inJap":  "난 괜찮아 고마워"
+                        },
+                        {
+                          "inEng": "I'm not well thanks",
+                          "inEngJap":  "mom-i johji anh-ayo gamsahabnida",
+                          "inJap":  "잘 안되네요 감사합니다"
+                        },
+                        {
+                          "inEng": "What's your name?",
+                          "inEngJap":  "ileum-i mwo-eyo?",
+                          "inJap":  "이름이 뭐에요?"
+                        },
+                        {
+                          "inEng": "My name is ",
+                          "inEngJap":  "nae ileum-eun ",
+                          "inJap":  "내 이름은"
+                        },
+                        {
+                          "inEng": "See You Later",
+                          "inEngJap":  "najung-e bwayo",
+                          "inJap":  "나중에 봐요"
+                        },
+                        {
+                          "inEng": "Good Bye",
+                          "inEngJap":  "annyeong",
+                          "inJap":   "안녕히 가세요"
+                        },
+                        {
+                          "inEng": "Nice To meet you",
+                          "inEngJap":  "mannaseo bangawoyo",
+                          "inJap":  "만나서 반가워요"
+                        },
+                        {
+                          "inEng": "What about you?",
+                          "inEngJap":  "dangsin-eun eottaeyo?",
+                          "inJap":  "당신은 어때요?"
+                        },
+                        {
+                          "inEng": "Good Luck",
+                          "inEngJap":  "haeng-un-eul bibnida",
+                          "inJap":  "행운을 빕니다"
+                        },
+                        {
+                          "inEng": "Take Care",
+                          "inEngJap":  "jal jinaeseyo",
+                          "inJap":  "잘 지내세요"
+                        },
+                        {
+                          "inEng": "It's been a while",
+                          "inEngJap":  "olaenman-iya",
+                          "inJap":  "오랜만이야"
+                        },
+                        {
+                          "inEng": "Can you speak english?",
+                          "inEngJap":  "yeong-eoleul hal su issseubnikka?",
+                          "inJap":  "영어를 할 수 있습니까?"
+                        },
+                        {
+                          "inEng": "I can speak a little korean",
+                          "inEngJap":  "naneun hangug-eoleul jogeum hal su issda",
+                          "inJap":  "나는 한국어를 조금 할 수 있다"
+                        },
+                        {
+                          "inEng": "I'm From (Country)",
+                          "inEngJap":  "naneun (nala) chulsin-ida",
+                          "inJap":  "나는 (나라) 출신이다"
+                        },
+                        {
+                          "inEng": "How old are you?",
+                          "inEngJap":  "dangsin-eun myeoch sal-ibnikka?",
+                          "inJap":  "당신은 몇 살입니까?"
+                        },
+                        {
+                          "inEng": "I'm (20) years old",
+                          "inEngJap":  "nae naineun 20 sal-ibnida",
+                          "inJap":  "내 나이는 20 살입니다"
+                        },
+                        {
+                            "inEng": "Special occassions",
+                            "inEngJap":  "teugbyeolhan gyeong-u",
+                            "inJap": "특별한 경우"
+                        },
+                        {
+                            "inEng": "Merry Christmas",
+                            "inEngJap":  "meli keuliseumaseu",
+                            "inJap":  "메리 크리스마스"
+                        },
+                        {
+                            "inEng": "Happy New Year",
+                            "inEngJap":  "saehae bog manh-i bad-euseyo",
+                            "inJap":  "새해 복 많이 받으세요"
+                        },
+                        {
+                            "inEng": "Happy Anniversary",
+                            "inEngJap":  "ginyeom-il chugha",
+                            "inJap":  "기념일 축하해"
+                        },
+                        {
+                            "inEng": "Happy Valentine",
+                            "inEngJap":  "haepi ballentain dei",
+                            "inJap":  "해피 발렌타인 데이"
+                        },
+                        {
+                            "inEng": "Happy Easter",
+                            "inEngJap":  "haengboghan buhwaljeol",
+                            "inJap":  "행복한 부활절"
+                        },
+                        {
+                              "inEng": "Happy Mother's Day",
+                              "inEngJap":  "haepi eomeoniui nal",
+                              "inJap":"해피 어머니의 날"
+                        },
+                        {
+                              "inEng": "Happy Father's Day",
+                              "inEngJap":  "haepi abeojiui nal",
+                              "inJap":"해피 아버지의 날"
+                        },
+                        {
+                              "inEng": "Happy Birthday",
+                              "inEngJap":  "saeng-il chugha haeyo",
+                              "inJap":"생일 축하"
+                        },
+                        {
+                              "inEng": "Happy Belated Birthday",
+                              "inEngJap":  "neuj-eossjiman saeng-il chughahae",
+                              "inJap":"늦었지만 생일 축하해"
+                        },
+                        {
+                              "inEng": "When is your Anniversay?",
+                              "inEngJap":  "ginyeom-il-eun eonjeingayo?",
+                              "inJap":"기념일은 언제인가요?"
+                        }
+
+                      ]
+
+}

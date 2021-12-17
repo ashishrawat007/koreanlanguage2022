@@ -1,0 +1,99 @@
+
+{
+  "Tourist Spot"      : [
+
+    {
+      "inEng": "Seoul's Street Food Markets ",
+      "inEngJap":  "seoul-ui gilgeoli eumsig sijang ",
+      "inJap":  "서울의 길거리 음식 시장"
+    },
+    {
+      "inEng": "Itaewon ",
+      "inEngJap":  "itaewon ",
+      "inJap":  "이태원"
+    },
+    {
+      "inEng": "Jingwansa Temple",
+      "inEngJap":  "jingwansa",
+      "inJap":  "진관사"
+    },
+    {
+      "inEng": "Gwanghwamun Gate",
+      "inEngJap":  "gwanghwamun",
+      "inJap":  "광화문"
+    },
+    {
+      "inEng": "Jeju Island",
+      "inEngJap":  "jejudo",
+      "inJap":  "제주도"
+    },
+    {
+      "inEng": " Blue House",
+      "inEngJap":  "cheong-wadae",
+      "inJap":  "청와대"
+    },
+    {
+      "inEng": "Bulguksa Temple",
+      "inEngJap":  "bulgugsa",
+      "inJap":  "불국사"
+    },
+    {
+      "inEng": "Hallyeo Maritime National Park",
+      "inEngJap":  "hanlyeohaesang-guglibgong-won",
+      "inJap":  "한려해상국립공원"
+    },
+    {
+      "inEng": "Gyeongbokgung Palace",
+      "inEngJap":  "gyeongboggung",
+      "inJap":  "경복궁"
+    },
+    {
+      "inEng": " Lotte World",
+      "inEngJap":  "losdewoldeu",
+      "inJap":  "롯데월드"
+
+    },
+    {
+      "inEng": "National Museum of Korea",
+      "inEngJap":  "guglibjung-angbagmulgwan",
+      "inJap":  "국립중앙박물관"
+    },
+    {
+      "inEng": "The DMZ",
+      "inEngJap":  "bimujangjidae",
+      "inJap":  "비무장지대"
+    },
+    {
+      "inEng": " Seoraksan National Park",
+      "inEngJap":  "seol-agsan guglibgong-won",
+      "inJap":  "설악산 국립공원"
+    },
+    {
+      "inEng": "N Seoul Tower",
+      "inEngJap":  "Nseoultawo",
+      "inJap":  "N서울타워"
+    },
+    {
+      "inEng": "Jeonju",
+      "inEngJap":  "jeonju",
+      "inJap":  "전주"
+    },
+    {
+      "inEng": " Bukchon Hanok Village",
+      "inEngJap":  "bugchonhan-ogma-eul",
+      "inJap":  "북촌한옥마을"
+    },
+    {
+      "inEng": "Busan",
+      "inEngJap":  "busan",
+      "inJap":  "부산"
+    },
+    {
+      "inEng": "Changdeokgung Palace",
+      "inEngJap":  "changdeoggung",
+      "inJap":  "창덕궁"
+    }
+  ]
+
+
+}

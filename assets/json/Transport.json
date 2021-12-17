@@ -1,0 +1,87 @@
+
+{
+  "Transport"      : [
+    {
+      "inEng": "Railway",
+      "inEngJap":  "cheoldo",
+      "inJap":  "철도"
+    },
+    {
+      "inEng": "Bullet Train",
+      "inEngJap":  "chogosog yeolcha",
+      "inJap":  "초고속 열차"
+    },
+    {
+      "inEng": "Road",
+      "inEngJap":  "dolo",
+      "inJap":  "도로"
+    },
+    {
+      "inEng": "Airway",
+      "inEngJap":  "gido",
+      "inJap":  "기도"
+    },
+    {
+      "inEng": "Maritime",
+      "inEngJap":  "haesang",
+      "inJap":  "해상"
+    },
+    {
+      "inEng": "Taxi",
+      "inEngJap":  "taegsi",
+      "inJap":  "택시"
+    },
+    {
+      "inEng": "Bus",
+      "inEngJap":  "beoseu",
+      "inJap":  "버스"
+    },
+    {
+      "inEng": "helicopter",
+      "inEngJap":  "hellikobteo",
+      "inJap":  "헬리콥터"
+    },
+    {
+      "inEng": "train",
+      "inEngJap":  "gicha",
+      "inJap":  "기차"
+    },
+    {
+      "inEng": "Primary airports",
+      "inEngJap":  "juyo gonghang",
+      "inJap":  "주요 공항"
+    },
+    {
+      "inEng": "metro",
+      "inEngJap":  "jihacheol",
+      "inJap":  "지하철"
+    },
+    {
+      "inEng": "Toei Subway",
+      "inEngJap":  "do-ei jihacheol",
+      "inJap":  "도에이 지하철"
+    },
+    {
+      "inEng": "Odakyū Electric Railway",
+      "inEngJap":  "odakyu jeoncheol",
+      "inJap":  "오다큐 전철"
+    },
+    {
+      "inEng": "Sagami Railway",
+      "inEngJap":  "sagami cheoldo",
+      "inJap":  "사가미 철도"
+    },
+    {
+      "inEng": "Expressways",
+      "inEngJap":  "gosogdolo",
+      "inJap":  "고속도로"
+    },
+    {
+      "inEng": "Bicycles",
+      "inEngJap":  "jajeongeo",
+      "inJap":  "자전거"
+    }
+  ]
+
+
+}

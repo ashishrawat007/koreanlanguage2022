@@ -1,0 +1,96 @@
+
+{
+  "Shopping"      : [
+    {
+      "inEng": "Cash",
+      "inEngJap":  "hyeongeum",
+      "inJap":  "현금"
+    },
+    {
+      "inEng": "I like that one over there",
+      "inEngJap":  "naneun geogi issneun geos-eul joh-ahanda",
+      "inJap":  "나는 거기 있는 것을 좋아한다"
+    },
+    {
+      "inEng": "No thank you",
+      "inEngJap":  "aniyo gwaenchanhseubnida",
+      "inJap":  "아니요 괜찮습니다"
+    },
+    {
+      "inEng": "Is there a convenience store around here?",
+      "inEngJap":  "i geuncheoe pyeon-uijeom-i issseubnikka?",
+      "inJap":  "이 근처에 편의점이 있습니까?"
+    },
+    {
+      "inEng": "Do you have watch?",
+      "inEngJap":  "sigye iss-eoyo?",
+      "inJap":  "시계 있어요?"
+    },
+    {
+      "inEng": "Can I try it on?",
+      "inEngJap":  "naneun geugeos-eul sido hal su issseubnida?",
+      "inJap":  "나는 그것을 시도 할 수 있습니다?"
+    },
+    {
+      "inEng": "What are you looking for?",
+      "inEngJap":  "mueos-eul chajgo gyesingayo?",
+      "inJap":  "무엇을 찾고 계신가요?"
+    },
+    {
+      "inEng": "How much?",
+      "inEngJap":  "eolmana manh-i?",
+      "inJap":  "얼마나 많이?"
+    },
+
+    {
+      "inEng": "Credit Card",
+      "inEngJap":  "sin-yong kadeu",
+      "inJap":  "신용 카드"
+    },
+    {
+      "inEng": "Debit Card",
+      "inEngJap":  "jigbul kadeu",
+      "inJap":  "직불 카드"
+    },
+    {
+      "inEng": "Expensive",
+      "inEngJap":  "gabs bissan",
+      "inJap":  "값 비싼"
+    },
+    {
+      "inEng": "Big Tall Large",
+      "inEngJap":  "keun ki keun",
+      "inJap":  "큰 키 큰"
+    },
+    {
+      "inEng": "Small",
+      "inEngJap":  "jag-eun",
+      "inJap":  "작은"
+    },
+    {
+      "inEng": "Price",
+      "inEngJap":  "gagyeog",
+      "inJap":  "가격"
+    },
+    {
+      "inEng": "Store",
+      "inEngJap":  "gage",
+      "inJap":  "가게"
+    },
+    {
+      "inEng": "BookStore",
+      "inEngJap":  "seojeom",
+      "inJap":  "서점"
+    },
+    {
+      "inEng": "grocery store",
+      "inEngJap":  "siglyopumjeom",
+      "inJap":  "식료품점"
+    }
+
+
+
+  ]
+
+
+}
